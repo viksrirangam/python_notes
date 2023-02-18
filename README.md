@@ -1,2 +1,2 @@
 # python_notes
-learning notes/referebce to python language
+learning notes/reference to python language
